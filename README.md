@@ -1,7 +1,7 @@
 ## Hello There
 
-<p align="center" width="200%">
-  <img src="https://cdn.bhdw.net/im/red-umbrella-wallpaper-10717_w635.webp">
+<p align="center">
+  <img src="https://cdn.bhdw.net/im/red-umbrella-wallpaper-10717_w635.webp" width="200%">
 </p>
 
 What is Lorem Ipsum?
