@@ -32,27 +32,12 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 <hr>
 
 <h3 align="center"> Links </h3>
-<style>
-        body {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-        }
-        hr {
-            width: 50%; /* Adjust the width as needed */
-            margin: 0 auto;
-            border: 1px solid black;
-        }
-    </style>
-<h4 align="center"> Links </h4>
 
-<p align="center" magin="10px">
+<p align="center" margin="10px">
   <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 10px;"/>
   </a>
    <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 10px/>
   </a>
 </p>
