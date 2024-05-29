@@ -34,7 +34,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
     <img src="https://skillicons.dev/icons?i=html,css,bash,py" />
   </a>
 </p>
-<hr width="20%" align="center">
+<hr>
 
 <h3 align="center"> Links </h3>
 <div align="center">
