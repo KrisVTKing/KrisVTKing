@@ -17,7 +17,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 </h3>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=aws,windows,linux,git,github,unreal,vim,vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=aws,windows,linux,git,github,unreal,vim,vscode,obsidian"/>
   </a>
 </p>
 
@@ -25,8 +25,15 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
  My Languages
 </h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css,bash,py" />
   </a>
 </p>
 <hr>
+
+<h3 align="center"> Links </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
