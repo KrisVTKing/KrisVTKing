@@ -32,4 +32,17 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 <hr>
 
 <h3 align="center"> Links </h3>
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristiyan-stoykov-792612230/){:target="_blank"}
+<center>
+    <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</center>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
