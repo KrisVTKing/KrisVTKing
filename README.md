@@ -32,7 +32,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 <hr>
 
 <h3 align="center"> Links </h3>
-<hr center 2  width=50%>
+<hr length="50%"  width=50%>
 <h4 align="center"> Links </h4>
 
 <p align="center">
