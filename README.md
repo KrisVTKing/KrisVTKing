@@ -33,6 +33,6 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 <h3 align="center">Links</h3>
 <p align="center">
-  <a href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <a href="https://camo.githubusercontent.com/3bfdd5abfb1976624aae2982a0a5c30e8bc17a4a2bec380012488fb557adbeb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77696b692e6a732d2532333139373644322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d77696b69646f746a73266c6f676f436f6c6f723d7768697465">
   </a>
 </p>
