@@ -16,7 +16,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,windows,linux,,git,github,unreal,vim,vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=aws,windows,linux,git,github,unreal,vim,vscode,obsidian" />
   </a>
 </p>
 
