@@ -41,7 +41,6 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.credly.com/badges/d244d2ba-b6fd-4f5f-a7b5-6d5f20179ed5/public_url">
-    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+   <a href="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </a>
 </p>
