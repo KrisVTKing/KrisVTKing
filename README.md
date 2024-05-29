@@ -35,6 +35,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 <div align="center">
     <hr width="100px">
 </div>
+<h4 align="center"> Work Related </h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -43,4 +44,9 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
    <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d244d2ba-b6fd-4f5f-a7b5-6d5f20179ed5" data-share-badge-host="https://www.credly.com">
+  </div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+
+  </script>
 </p>
