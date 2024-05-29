@@ -33,6 +33,15 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 <h3 align="center"> Links </h3>
 <p align="center">
+  <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="30">
+      <script type="text/javascript">window.open("https://www.linkedin.com/in/kristiyan-stoykov-792612230/", "_blank");</script>
+      <image href="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" height="100%"/>
+    </svg>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
