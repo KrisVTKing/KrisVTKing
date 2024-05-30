@@ -5,7 +5,7 @@
 <p  align="center">
   <a href="https://www.besthdwallpaper.com/ilbon-manhwa-yeonghwa/bbalgan-usan-dt_ko-10717.html">Source of the Background Art
 </p>
-<p align="center">
+<p style="text-align:center" align="center">
 I am a dedicated developer who loves to create innovative solutions and help others through code. 
 Friendly and collaborative, I bring a positive attitude to every project. When challenges arise, 
 I step up to the occasion, ensuring that every task is completed with excellence and efficiency. 
