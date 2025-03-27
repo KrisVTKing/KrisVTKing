@@ -41,7 +41,7 @@ My passion for coding and commitment to making a positive impact drive my work.
 </div>
 <h4 align="center"> Work Related </h4>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230/">
+  <a href="https://www.linkedin.com/in/kristiyan-stoykov-792612230">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
    &nbsp;&nbsp;
